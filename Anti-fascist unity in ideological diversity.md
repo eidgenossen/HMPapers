@@ -1,3 +1,5 @@
+# Anti-fascist unity in ideological diversity
+
 ## Abstract
 
 Militant anti-fascism, where it has worked (i.e. not Weimar) has always had to manage coalitions of ideologically diverse tendencies. Today the radical left is riven by friction between classical materialist, radical liberal and post-classical materialist tendencies. These are meta-ideological tendencies to the extent they transcend more lineal categorisations, such as Marxist or anarchist, for e.g. This paper will briefly outline a provisional schema for defining these categories in relation to the five reference points of class, class interest, ideology, social relations and the base/superstructure model. Then go on to discuss how best to manage the inevitable tensions between groups embodying them in a militant anti-fascist context
