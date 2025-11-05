@@ -1,3 +1,7 @@
+# Transversality and the Three Way Fight Tradition of Anti-Fascism*
+
+## Abstract
+
 This paper introduces the Three Way Fight tradition of militant anti-fascism that emerged in the late nineties and early noughts in North America. How questions of theory arose from writers in dialogue with the anti-fascist militants around Anti-Racist Action, resulting in an exchange of texts between Don Hamerquist and J Sakai, published as 2002's "Confronting Fascism". And how that in turn led to the establishment of the Three Way Fight blog to continue the discussion. We outline the main strategic differences between the Three Way Fight perspective and the traditional "two way" orthodox Marxist view going back to the Dimitrov line adopted by the 1935 Comintern and reiterated in the post-war period by the Black Panthers, amongst others. We then look at how Guattari's notion of transversality maps onto the key strategic perspectives of the Three Way Fight. How Guattari's transversality allows us to stand Althusser on his head and see that subjectifying interpellations are always in relation to big-S Subjects (race, nation, masculinity) that cut diagonally across class. How a theory of nationalism as a transversally subjectifying identitarian ideology allows us to transcend the shallow critique of the Dimitrov line that both reduces fascist ideology to epiphenomenal "false consciousness" propounded by demagoguery, while simultaneously framing "outraged national sentiments" as natural and legitimate. Finally we touch on how a transversal approach to class solidarity and militant anti-fascism can help us to transcend the sterile confrontation between radical-liberal horizontalism and class-reductionist verticalism, while moving beyond the liberal pandering of Popular Frontism.
 
 ## Preliminary Comments and Orientation
@@ -325,7 +329,7 @@ Xtn, Hamerquist, D., Sakai, J., Salotte, M. (2002). "Confronting Fascism". Kers
 
 ‌Zerubavel, Eviatar. 2003. "Time Maps: Collective Memory and the Social Shape of the Past". University of Chicago Press.
 ## Notes
-
+* presented at HM London 2024
 [^1]: https://threewayfight.org
 [^2]: See Xtn, Hamerquist, Sakai, Salotte (2002)
 [^3]: From the Dmitrov formulation, see later in the text and in Supplementary Materials
