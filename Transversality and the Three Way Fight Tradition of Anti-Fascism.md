@@ -329,7 +329,7 @@ Xtn, Hamerquist, D., Sakai, J., Salotte, M. (2002). "Confronting Fascism". Kers
 
 ‌Zerubavel, Eviatar. 2003. "Time Maps: Collective Memory and the Social Shape of the Past". University of Chicago Press.
 ## Notes
-* presented at HM London 2024
+\* presented at HM London 2024
 [^1]: https://threewayfight.org
 [^2]: See Xtn, Hamerquist, Sakai, Salotte (2002)
 [^3]: From the Dmitrov formulation, see later in the text and in Supplementary Materials
